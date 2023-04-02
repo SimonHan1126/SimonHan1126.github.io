@@ -32872,7 +32872,7 @@ A.tc.prototype={
 h(a){return this.a}}
 A.tb.prototype={}
 A.Bk.prototype={
-N(a){return new A.rG(B.G9,"Expense Tracket",A.abz(null,B.fv,null),null)}}
+N(a){return new A.rG(B.G9,"Expense Tracker",A.abz(null,B.fv,null),null)}}
 A.rR.prototype={
 ah(){var s=t.N
 return new A.Hj(A.a([],t.t6),A.z(s,t.iN),A.z(s,t.i),B.m)}}
