@@ -1,11 +1,11 @@
 {
-    "name": "expense_tracker",
-    "short_name": "expense_tracker",
+    "name": "barcode_2_ftp_scanner",
+    "short_name": "barcode_2_ftp_scanner",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project show expense.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
