@@ -1,11 +1,11 @@
 {
-    "name": "barcode_2_ftp_scanner",
-    "short_name": "barcode_2_ftp_scanner",
+    "name": "warehouse_management_system",
+    "short_name": "warehouse_management_system",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A Warehouse Inventory Management System",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
